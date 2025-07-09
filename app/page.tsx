@@ -38,7 +38,6 @@ export default function Home() {
       }
       document.body.appendChild(tfScript)
     }
-
     loadScripts()
   }, [])
 
@@ -67,7 +66,12 @@ export default function Home() {
         {/* Header */}
         <div className="text-center space-y-2">
           <h1 className="text-4xl font-bold text-gray-900">AI Image Classifier</h1>
-          <p className="text-gray-600">Upload an image to see what the AI recognizes</p>
+          <p className="text-gray-600">
+            Upload an image to see what the AI recognizes
+          </p>
+          <h3>
+            Upload Image of Akshay Kumar, Shahrukh Khan, Virat Kohli Or Kartikey Mishra
+          </h3>
         </div>
 
         {/* Upload Card */}
