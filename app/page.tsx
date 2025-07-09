@@ -70,7 +70,7 @@ export default function Home() {
             Upload an image to see what the AI recognizes
           </p>
           <h3>
-            Upload Image of Akshay Kumar, Shahrukh Khan, Virat Kohli Or Kartikey Mishra
+            Upload Image of Akshay Kumar, Shahrukh Khan, Virat Kohli Or Kartikey Only...
           </h3>
         </div>
 
